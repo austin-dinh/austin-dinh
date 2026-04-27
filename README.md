@@ -20,18 +20,22 @@ This GitHub is where I build things to make that real.
 ## What I'm building
 
 **[WorkStack]**
+
 A job and customer management app for tradies. Born from a real gap 
 in how tradespeople track work and manage clients.
 
 **[PetPals]**
+
 An adoption app that lets you browse and adopt pets. Clean, simple, 
 built to make the process feel less clinical.
 
 **[The Louvre Heist]**
+
 A site that pulls from an external art API to surface artworks. 
 The name is more fun than the crime.
 
 **[Pet Sitting Matcher]** *(in progress)*
+
 Connecting homeowners who need pet sitting with people who'll do it 
 in exchange for free accommodation. Matching people, not just data.
 
