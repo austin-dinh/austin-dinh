@@ -56,4 +56,4 @@ closing that gap, one repo at a time.
 
 ---
 
-*Always open to a chat. Find me on [LinkedIn]([https://www.linkedin.com/in/austindinh/]) or drop me a message.*
+*Always open to a chat. Find me on [LinkedIn](https://www.linkedin.com/in/austindinh/) or drop me a message.*
