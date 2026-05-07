@@ -2,7 +2,7 @@
 
 Product manager and business analyst turned developer. After years of defining 
 what should be built and why, I decided I wanted to get closer to the how. 
-So I taught myself to code.
+So I learned coding.
 
 This GitHub is where I build things to make that real.
 
